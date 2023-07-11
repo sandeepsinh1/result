@@ -1,0 +1,187 @@
+<web-app>
+
+<servlet>
+<servlet-name>abhi</servlet-name>
+<servlet-class>ServerDemo1</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi</servlet-name>
+<url-pattern>/raj</url-pattern>
+</servlet-mapping>
+
+
+<servlet>
+<servlet-name>abhi1</servlet-name>
+<servlet-class>ServerDemo2</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi1</servlet-name>
+<url-pattern>/rajp</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>abhi2</servlet-name>
+<servlet-class>ServerDemo33</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi2</servlet-name>
+<url-pattern>/rajput</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>abhi3</servlet-name>
+<servlet-class>login</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi3</servlet-name>
+<url-pattern>/pro</url-pattern>
+</servlet-mapping>
+
+
+<servlet>
+<servlet-name>register</servlet-name>
+<servlet-class>register</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>register</servlet-name>
+<url-pattern>/register</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>abhi4</servlet-name>
+<servlet-class>search</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi4</servlet-name>
+<url-pattern>/pro1</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>abhi5</servlet-name>
+<servlet-class>update</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi5</servlet-name>
+<url-pattern>/pro2</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>abhi6</servlet-name>
+<servlet-class>Delete</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi6</servlet-name>
+<url-pattern>/pro3</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>abhi7</servlet-name>
+<servlet-class>insert</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi7</servlet-name>
+<url-pattern>/pro4</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>abhi8</servlet-name>
+<servlet-class>showall</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi8</servlet-name>
+<url-pattern>/pro5</url-pattern>
+</servlet-mapping>
+
+
+<servlet>
+<servlet-name>abhi9</servlet-name>
+<servlet-class>register1</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi9</servlet-name>
+<url-pattern>/pro6</url-pattern>
+</servlet-mapping>
+
+<!-- <web-app> -->
+<servlet>
+<servlet-name>abhi10</servlet-name>
+<servlet-class>demo22</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi10</servlet-name>
+<url-pattern>/ra</url-pattern>
+</servlet-mapping>
+<!-- </web-app> -->
+
+<servlet>
+<servlet-name>abhi11</servlet-name>
+<servlet-class>p</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi11</servlet-name>
+<url-pattern>/me</url-pattern>
+</servlet-mapping>
+
+<!-- 
+<servlet>
+<servlet-name>abhi2</servlet-name>
+<servlet-class>ServerDemo33</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>abhi2</servlet-name>
+<url-pattern>/rajpu<url-pattern>
+</servlet-mapping>
+ -->
+ 
+ 
+ <servlet>
+ <servlet-name>Apache1</servlet-name>
+ <servlet-class>Apache1</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>Apache1</servlet-name>
+ <url-pattern>/apache</url-pattern>
+ </servlet-mapping>
+ 
+ 
+ <servlet>
+ <servlet-name>Url2</servlet-name>
+ <servlet-class>Url2</servlet-class>
+ </servlet>
+ 
+ <servlet-mapping>
+ <servlet-name>Url2</servlet-name>
+ <url-pattern>/Url</url-pattern>
+ </servlet-mapping>
+ 
+ <servlet>
+ <servlet-name>dataenter</servlet-name>
+ <servlet-class>Dataenter</servlet-class>
+ </servlet>
+ 
+ <servlet-mapping>
+ <servlet-name>dataenter</servlet-name>
+ <url-pattern>/dataenter</url-pattern>
+ </servlet-mapping>
+ 
+ <servlet>
+ <servlet-name>showdata</servlet-name>
+ <servlet-class>Showdata</servlet-class>
+ </servlet>
+ 
+ <servlet-mapping>
+ <servlet-name>showdata</servlet-name>
+ <url-pattern>/showdata</url-pattern>
+ </servlet-mapping>
+ 
+ <servlet>
+ <servlet-name>checkuser</servlet-name>
+ <servlet-class>Checkuser</servlet-class>
+ </servlet>
+ 
+ <servlet-mapping>
+ <servlet-name>checkuser</servlet-name>
+ <url-pattern>/checkuser</url-pattern>
+ </servlet-mapping>
+ 
+</web-app>
